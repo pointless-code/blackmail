@@ -1,15 +1,14 @@
 {
   "smtp": {
-    "host": "smtp.gmail.com",
+    "host": "smtp.mail.com",
     "port": 587,
-    "username": "your-email@gmail.com",
-    "password": "your-app-password"
+    "username": "your-username",
+    "password": "your-password"
   },
   "recipients": [
     "recipient1@example.com",
     "recipient2@example.com",
     "invalid-email-address",
     "recipient3@domain.com"
-  ],
-  "subject": "Test Message"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "blsckmail",
+  "name": "blackmail",
   "version": "1.0.0",
   "description": "A questionable email sending container.",
    "main": "dist/index.js",
@@ -9,7 +9,7 @@
     "dev": "ts-node src/index.ts"
   },
   "keywords": ["email", "smtp", "typescript", "docker"],
-  "author": "",
+  "author": "pointless",
   "license": "MIT",
   "dependencies": {
     "nodemailer": "^6.9.8"
